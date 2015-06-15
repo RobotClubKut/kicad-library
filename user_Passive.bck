@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7SEGM_4DEG
+D Afficheur Leds 7 segments
+K DEV
+$ENDCMP
+#
+$CMP C_LeadThrough
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP VR
+D VARISTANCE
+K VR  DEV
+$ENDCMP
+#
+#End Doc Library

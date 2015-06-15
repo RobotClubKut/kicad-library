@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_RED_2
+D HIROSE,DF22serias
+K HIROSE RED
+$ENDCMP
+#
+$CMP CONN_RED_2_Power
+D HIROSE,DF22serias
+K HIROSE RED
+$ENDCMP
+#
+$CMP CONN_WHITE_3
+D Molex, KKseries, Power
+K Molex KK
+$ENDCMP
+#
+$CMP CONN_WHITE_3_LIN
+D Molex, KKseries, Power
+K Molex KK
+$ENDCMP
+#
+$CMP CONN_WHITE_3_Power
+D Molex, KKseries, Power
+K Molex KK
+$ENDCMP
+#
+$CMP CONN_WHITE_5
+D Molex, KKseries
+K Molex KK
+$ENDCMP
+#
+$CMP CONN_WHITE_5_RE
+D Molex, KKseries, rotaly encoder
+K Molex KK
+$ENDCMP
+#
+#End Doc Library
