@@ -1,0 +1,2 @@
+# KiCadComponents
+KiCadのComponentのライブラリ
