@@ -40,4 +40,9 @@ D HIROSE DF22 BLACK 2P
 K HIROSE BLACK
 $ENDCMP
 #
+$CMP PSoC_SWD
+D Molex KKseries 5P PSoC SWD
+K Molex KK 5P PSoC SWD
+$ENDCMP
+#
 #End Doc Library

@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HT77xxA
+D HT77xxA Series
+K HT77xxA
+$ENDCMP
+#
 $CMP NJM78M05FA
 D NJM78M05FA, Positive 0.5A 35V Linear Regulator, Fixed Output 5V, TO-220F
 K Voltage Regulator 0.5A Positive
