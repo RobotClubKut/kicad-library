@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PSOC3_CY8C38_FAMILY_100
+D CY8C3xxx Series
+K PSoC3 , 100pin
+$ENDCMP
+#
 #End Doc Library
