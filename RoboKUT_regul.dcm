@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BM1PxxxFJ
+D PWM Control type DC/DC converter IC
+$ENDCMP
+#
 $CMP HT77xxA
 D HT77xxA Series
 K HT77xxA
