@@ -11,6 +11,11 @@ D UNIVERSAL HIGH VOLTAGE LED DRIVER
 K LED DRIVER
 $ENDCMP
 #
+$CMP HV7802
+D High Side Current Monitor
+K High Side Current Monitor
+$ENDCMP
+#
 $CMP LM7805
 D Linear Regulator +5V
 K POWER REGUL
