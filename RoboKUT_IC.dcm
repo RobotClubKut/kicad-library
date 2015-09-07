@@ -11,6 +11,11 @@ D UNIVERSAL HIGH VOLTAGE LED DRIVER
 K LED DRIVER
 $ENDCMP
 #
+$CMP CL6807
+D 35V 1A LED driver with internal switch
+K LED driver
+$ENDCMP
+#
 $CMP HV7802
 D High Side Current Monitor
 K High Side Current Monitor
