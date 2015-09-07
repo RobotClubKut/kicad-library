@@ -20,4 +20,8 @@ D TOSHIBA 5V 150mA Reguletor
 K TA78L05F , Reguletor , 5V
 $ENDCMP
 #
+$CMP TL431
+D Precision Programmable Reference
+$ENDCMP
+#
 #End Doc Library
