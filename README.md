@@ -1,2 +1,2 @@
-# KiCadComponents
-KiCadのComponentのライブラリ
+# kicad-library
+KiCadのライブラリ
